@@ -21,7 +21,7 @@ Proyecto backend desarrollado con **Node.js**, **Express** y **MongoDB**.
 ### Clonar el repositorio
 
 ```sh
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/IgnacioBayugar/EntregaFinal-Bayugar
 cd entrega-final-idbs
 ```
 
@@ -40,7 +40,7 @@ PORT=8080
 MONGO_URL=tu_url_de_mongodb_atlas
 ```
 
-> El proyecto no incluye `node_modules`.
+> El proyecto no incluye la carpeta `node_modules`.
 
 ### Ejecutar el servidor
 
