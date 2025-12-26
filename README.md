@@ -1,7 +1,3 @@
-git clone URL_DEL_REPOSITORIO
-npm install
-npm run dev
-
 # 📦 Entrega Final
 
 Proyecto backend desarrollado con **Node.js**, **Express** y **MongoDB**.
